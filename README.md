@@ -9,7 +9,7 @@ Each concept is a stepping stone, building upon the previous level and preparing
 
 ## 1. Beginner-Level Concepts
 
-1. **Object-Oriented Programming (OOP)**
+1. **[Object-Oriented Programming (OOP)](./books/OOP.pdf)**
     - Classes and Objects  
     - Inheritance  
     - Polymorphism  
@@ -160,7 +160,7 @@ Each concept is a stepping stone, building upon the previous level and preparing
 
 ## 3. Advanced-Level Concepts
 
-20. **Domain-Driven Design (DDD)**
+20. **[Domain-Driven Design (DDD)](./books/Domain%20Driven%20Design.pdf)**
     - Ubiquitous Language  
     - Entities and Value Objects  
     - Aggregates and Aggregate Roots  

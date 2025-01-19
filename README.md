@@ -16,14 +16,14 @@ Each concept is a stepping stone, building upon the previous level and preparing
     - Abstraction  
     - Encapsulation  
 
-2. **SOLID Principles**
+2. **[SOLID Principles](./books/SOLID%20Principles.pdf)**
     - **S**: Single Responsibility Principle (SRP)  
     - **O**: Open/Closed Principle  
     - **L**: Liskov Substitution Principle  
     - **I**: Interface Segregation Principle  
     - **D**: Dependency Inversion Principle  
 
-3. **GRASP**
+3. **[GRASP](./books/GRASP%20Principles.pdf)**
     - Information Expert  
     - Creator  
     - Controller  
@@ -34,7 +34,7 @@ Each concept is a stepping stone, building upon the previous level and preparing
     - Indirection  
     - Protected Variations  
 
-4. **Clean Code**
+4. **[Clean Code](./books/Clean%20Code.pdf)**
     - Meaningful Names  
     - Functions with Single Responsibility  
     - Consistent Formatting  

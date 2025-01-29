@@ -43,14 +43,14 @@ Each concept is a stepping stone, building upon the previous level and preparing
     - Writing Readable Comments  
     - Proper Error Handling  
 
-5. **Unit Testing**
+5. **[Unit Testing](./books/Unit%20Testing.pdf)**
     - Writing Test Cases for Functions  
     - Assertions  
     - Mocking Dependencies  
     - Test-Driven Development (TDD) Basics  
     - Common Unit Testing Frameworks (e.g., NUnit, xUnit, JUnit)  
 
-6. **Data Structures**
+6. **[Data Structures](./books/Data%20Structures.pdf)**
     - Arrays  
     - Linked Lists (Singly, Doubly)  
     - Stacks  
@@ -59,7 +59,7 @@ Each concept is a stepping stone, building upon the previous level and preparing
     - Trees (Binary Trees, Binary Search Trees)  
     - Graphs (Basics)  
 
-7. **Algorithms**
+7. **[Algorithms](./books/Algorithms.pdf)**
     - Searching Algorithms (Linear Search, Binary Search)  
     - Sorting Algorithms (Bubble Sort, Selection Sort, Merge Sort, Quick Sort)  
     - Recursion Basics  

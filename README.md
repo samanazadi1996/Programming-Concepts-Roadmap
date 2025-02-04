@@ -76,7 +76,7 @@ Each concept is a stepping stone, building upon the previous level and preparing
 
 ## 2. Intermediate-Level Concepts
 
-9. **GoF (Design Patterns)**
+9. **[GoF (Design Patterns)](./books/GOF.pdf)**
     - Creational Patterns (e.g., Factory Method, Singleton, Builder, Prototype)  
     - Structural Patterns (e.g., Adapter, Decorator, Composite, Proxy)  
     - Behavioral Patterns (e.g., Observer, Strategy, Command, State, Visitor)  
